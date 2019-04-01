@@ -1,0 +1,13 @@
+C:\Users\asantos\source\repos\ApiNetCoreDapper\ApiNetCoreDapper\bin\Debug\netcoreapp2.2\ApiNetCoreDapper.deps.json
+C:\Users\asantos\source\repos\ApiNetCoreDapper\ApiNetCoreDapper\bin\Debug\netcoreapp2.2\ApiNetCoreDapper.runtimeconfig.json
+C:\Users\asantos\source\repos\ApiNetCoreDapper\ApiNetCoreDapper\bin\Debug\netcoreapp2.2\ApiNetCoreDapper.runtimeconfig.dev.json
+C:\Users\asantos\source\repos\ApiNetCoreDapper\ApiNetCoreDapper\bin\Debug\netcoreapp2.2\ApiNetCoreDapper.dll
+C:\Users\asantos\source\repos\ApiNetCoreDapper\ApiNetCoreDapper\obj\Debug\netcoreapp2.2\ApiNetCoreDapper.csproj.CoreCompileInputs.cache
+C:\Users\asantos\source\repos\ApiNetCoreDapper\ApiNetCoreDapper\obj\Debug\netcoreapp2.2\ApiNetCoreDapper.RazorAssemblyInfo.cache
+C:\Users\asantos\source\repos\ApiNetCoreDapper\ApiNetCoreDapper\obj\Debug\netcoreapp2.2\ApiNetCoreDapper.RazorAssemblyInfo.cs
+C:\Users\asantos\source\repos\ApiNetCoreDapper\ApiNetCoreDapper\obj\Debug\netcoreapp2.2\ApiNetCoreDapper.AssemblyInfoInputs.cache
+C:\Users\asantos\source\repos\ApiNetCoreDapper\ApiNetCoreDapper\obj\Debug\netcoreapp2.2\ApiNetCoreDapper.AssemblyInfo.cs
+C:\Users\asantos\source\repos\ApiNetCoreDapper\ApiNetCoreDapper\obj\Debug\netcoreapp2.2\ApiNetCoreDapper.RazorTargetAssemblyInfo.cache
+C:\Users\asantos\source\repos\ApiNetCoreDapper\ApiNetCoreDapper\bin\Debug\netcoreapp2.2\ApiNetCoreDapper.pdb
+C:\Users\asantos\source\repos\ApiNetCoreDapper\ApiNetCoreDapper\obj\Debug\netcoreapp2.2\ApiNetCoreDapper.dll
+C:\Users\asantos\source\repos\ApiNetCoreDapper\ApiNetCoreDapper\obj\Debug\netcoreapp2.2\ApiNetCoreDapper.pdb
